@@ -1,1 +1,2 @@
 Hello World!
+Testing vscode as default message text editor over Vim using git commit (excluding -m)
